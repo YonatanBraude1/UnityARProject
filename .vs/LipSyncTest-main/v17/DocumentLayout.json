@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\LipSyncTest-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C12FA70-6801-129C-6AA0-5807496DBC61}|Assembly-CSharp.csproj|D:\\Unity\\LipSyncTest-main\\assets\\subtitles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C12FA70-6801-129C-6AA0-5807496DBC61}|Assembly-CSharp.csproj|solutionrelative:assets\\subtitles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C12FA70-6801-129C-6AA0-5807496DBC61}|Assembly-CSharp.csproj|d:\\unity\\lipsynctest-main\\assets\\scenemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C12FA70-6801-129C-6AA0-5807496DBC61}|Assembly-CSharp.csproj|solutionrelative:assets\\scenemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C12FA70-6801-129C-6AA0-5807496DBC61}|Assembly-CSharp.csproj|D:\\Unity\\LipSyncTest-main\\assets\\placeindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C12FA70-6801-129C-6AA0-5807496DBC61}|Assembly-CSharp.csproj|solutionrelative:assets\\placeindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C12FA70-6801-129C-6AA0-5807496DBC61}|Assembly-CSharp.csproj|D:\\Unity\\LipSyncTest-main\\assets\\placemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C12FA70-6801-129C-6AA0-5807496DBC61}|Assembly-CSharp.csproj|solutionrelative:assets\\placemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C12FA70-6801-129C-6AA0-5807496DBC61}|Assembly-CSharp.csproj|D:\\Unity\\LipSyncTest-main\\assets\\placeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C12FA70-6801-129C-6AA0-5807496DBC61}|Assembly-CSharp.csproj|solutionrelative:assets\\placeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneManagement.cs",
+              "DocumentMoniker": "D:\\Unity\\LipSyncTest-main\\Assets\\SceneManagement.cs",
+              "RelativeDocumentMoniker": "Assets\\SceneManagement.cs",
+              "ToolTip": "D:\\Unity\\LipSyncTest-main\\Assets\\SceneManagement.cs",
+              "RelativeToolTip": "Assets\\SceneManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T09:02:00.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Subtitles.cs",
+              "DocumentMoniker": "D:\\Unity\\LipSyncTest-main\\Assets\\Subtitles.cs",
+              "RelativeDocumentMoniker": "Assets\\Subtitles.cs",
+              "ToolTip": "D:\\Unity\\LipSyncTest-main\\Assets\\Subtitles.cs",
+              "RelativeToolTip": "Assets\\Subtitles.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:23:21.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlaceManager.cs",
+              "DocumentMoniker": "D:\\Unity\\LipSyncTest-main\\Assets\\PlaceManager.cs",
+              "RelativeDocumentMoniker": "Assets\\PlaceManager.cs",
+              "ToolTip": "D:\\Unity\\LipSyncTest-main\\Assets\\PlaceManager.cs",
+              "RelativeToolTip": "Assets\\PlaceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:36:39.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaceIndicator.cs",
+              "DocumentMoniker": "D:\\Unity\\LipSyncTest-main\\Assets\\PlaceIndicator.cs",
+              "RelativeDocumentMoniker": "Assets\\PlaceIndicator.cs",
+              "ToolTip": "D:\\Unity\\LipSyncTest-main\\Assets\\PlaceIndicator.cs",
+              "RelativeToolTip": "Assets\\PlaceIndicator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:24:44.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlaceObject.cs",
+              "DocumentMoniker": "D:\\Unity\\LipSyncTest-main\\Assets\\PlaceObject.cs",
+              "RelativeDocumentMoniker": "Assets\\PlaceObject.cs",
+              "ToolTip": "D:\\Unity\\LipSyncTest-main\\Assets\\PlaceObject.cs",
+              "RelativeToolTip": "Assets\\PlaceObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:01:29.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
