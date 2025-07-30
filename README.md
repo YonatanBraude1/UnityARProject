@@ -1,3 +1,6 @@
+Link to Full Project Folder: https://ebraude-my.sharepoint.com/:f:/g/personal/yonatan_sherer_e_braude_ac_il/ElIt1JcYe0JAp_eLoMKsRWUBRq6eHRTueQichVQqomxrTg?e=czvUm3
+(Large files are limited from uploading to GitHub)
+
 # 🎙️ Lip Sync 3D Characters in Unity (FREE)
 
 Add realistic lip sync animation to your 3D characters using **Blender**, **Unity**, and the **uLipSync** plugin — all for free! This tutorial walks you through step-by-step how to create shape keys, export from Blender, and set up lip syncing in Unity with free tools.
